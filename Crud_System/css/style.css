@@ -1,0 +1,12 @@
+#updateBtn {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#updateBtn:hover {
+    background-color: darkgreen;
+}
